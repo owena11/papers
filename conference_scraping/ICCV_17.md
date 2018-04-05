@@ -19,6 +19,7 @@ Single Image Action Recognition Using Semantic Body Part Actions
 Joint Learning of Object and Action Detectors
 
 ### Unsupervised / Learning Strategy
+
 Unsupervised Action Discovery and Localization in Videos
 Joint Discovery of Object States and Manipulation Actions
 Common Action Discovery and Localization in Unconstrained Videos
@@ -38,14 +39,17 @@ Self-Supervised Learning of Pose Embeddings From Spatiotemporal Relations in Vid
 
 
 ### Unknown
+
 Chained Multi-Stream Networks Exploiting Pose, Motion, and Appearance for Action Classification and Detection
 Online Real-Time Multiple Spatiotemporal Action Localisation and Prediction
 Adaptive RNN Tree for Large-Scale Human Action Recognition
 
 ### Explanation
+
 What Actions Are Needed for Understanding Human Actions in Videos?
 
 ### Localisation 
+
 Action Tubelet Detector for Spatio-Temporal Action Localization
 AMTnet: Action-Micro-Tube Regression by End-To-End Trainable Deep Architecture
 TORNADO: A Spatio-Temporal Convolutional Regression Network for Video Action Proposal
@@ -53,5 +57,6 @@ Tube Convolutional Neural Network (T-CNN) for Action Detection in Videos
 
 
 ### Other
+
 Unsupervised Learning of Important Objects From First-Person Videos
 
