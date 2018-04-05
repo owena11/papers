@@ -1,7 +1,7 @@
 
 Title: What Actions are Needed for Understanding Human Actions in Videos?
 
-Authours: Gunnar A. Sigurdsson, Olga Russakovsky and Abhinav Gupta
+Authors: Gunnar A. Sigurdsson, Olga Russakovsky and Abhinav Gupta
 
 Publication Status: Published ICCV 2017
 

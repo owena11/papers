@@ -2,7 +2,7 @@
 Title:  Chanined Multi-stream Networks Exploiting Pose, Motion and Appearance
 for Action Classification and Detection
 
-Authours:  Mohammaderza Zolfaghari, Gabriel L. Oliveira, Nima Sedaghat and
+Authors:  Mohammaderza Zolfaghari, Gabriel L. Oliveira, Nima Sedaghat and
 Thomas Brox
 
 Publication Status: Published ICCV 2017
