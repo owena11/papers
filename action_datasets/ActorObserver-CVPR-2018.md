@@ -6,7 +6,9 @@ Karteek Alahari.
 
 Publication Status: Published ICCV 2017
 
-Date of Read:  This paper introduces the Charades-Ego dataset, that provides
+Date of Read: 06 / 04 / 18
+ 
+Summary Description: This paper introduces the Charades-Ego dataset, that provides
 paired recording of actors preforming a script from first and third person
 perspectives.  It uses a triplet loss to learn a unified representation of the
 two sources, ranked by a so called selector function that encodes relative
@@ -17,8 +19,6 @@ negative examples coming from first person examples. ResNet 152 pre-trained on
 he original charades dataset is used at the initialisation for this network.
 
 *Need to read more about the evaluative section on this paper*
-
-Summary Description:
 
 Comment: The selection of the anchor from a certain subset must limit the space
 that the network learned, almost aligning the two spaces assuming a sutible
