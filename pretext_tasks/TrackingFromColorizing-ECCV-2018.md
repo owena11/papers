@@ -43,15 +43,16 @@ Implementation details:
 Comment: This paper provides a very interesting task for pre-text, and differs
 from most other pre-text tasks in the way it reuses part of the network
 structure instead of purely the representation, the representation is instead
-forced to be useful the network mechanism. This level of indirection sets it
+forced to be useful in the network mechanism. This level of indirection sets it
 apart from other pre-text tasks.
 
 Its interesting that no spatial constraint is needed in order to focus local
 pointing to occur, it just emerges naturally.
 
 The use of the temporal model, allows the representation to be built of a
-combination of the target and reference frame. Initially this seems concerning
-but with the indirection though the attention mechanism reduces this concern.
-However the small (4) temporal window makes me question whether this is adding
+combination of multiple target and reference frames. Initially this seems
+concerning that some in information might leak betweek the two sets, however 
+with the indirection though the attention mechanism reduces this concern.
+The small (4) temporal window makes me question whether this is adding
 much, and that access to both reference frame and target frame provides the
 majority of the benefit.
