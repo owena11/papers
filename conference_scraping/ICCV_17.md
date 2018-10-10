@@ -30,6 +30,7 @@ Unsupervised Video Understanding by Reconciliation of Posture Similarities
 Unsupervised Object Segmentation in Video by Efficient Selection of Highly Probable Positive Features
 Unsupervised Learning of Object Landmarks by Factorized Spatial Embeddings
 
+
 Bringing Background Into the Foreground: Making All Classes Equal in Weakly-Supervised Video Semantic Segmentation
 Weakly- and Self-Supervised Learning for Content-Aware Deep Image Retargeting
 Weakly-Supervised Learning of Visual Relations
