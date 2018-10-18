@@ -43,7 +43,7 @@ their volume, some key notions hinted at are listed below:
    specialising the network in anyway.
  - Networks generally converge to similar interpretability levels given
    different initialisations.
- - Results match previous results where lower levels represent semantically
+ - Results match previous results where generally lower levels of the network represent semantically
    broader labels such as colour.
  - Contrary to other results, high level filters learn semantically distinct
    detectors.
@@ -51,12 +51,16 @@ their volume, some key notions hinted at are listed below:
    properties of networks.
  - BatchNorm reduces the interpretability of the networks.
  - Self Supervised networks separate less semantic classes than fully supervised
-   labels, however components required for the task seems to appear.
+   labels, however components required for the pre-text task seems to appear.
 
 ~ TBC - sure there is more but difficult to list on first reading, will update
 after paper discussion ~
 
-~ Didn't understand the Human experiments, need to re-read ~
+_After paper discusion_:
+Human experiments test concensus of between disection labelling from a human annotation
+and the labelling from the broden IOU. Testing participants agreement with the labelling
+associatedwith the disection. There is a notable increase in agreement between human labels
+form the broden IOU labels. 
 
 
 Comment: This paper presents an very complete set of experiments, that is
@@ -77,6 +81,14 @@ for the decisions it is required to make. Such as having a wheel + door
 detector as a single unit, would arguably make the network no less
 interpretable if the textual description could be given but would be ignored by
 this technique.
+
+I have issues with their definition of interpretability, that specifies a filter
+is iterpretable if and only if it has a single semantic label that passes all
+thresholds. This is a limited view of interpretablity, but the paired back defintion
+makes testing tractable of this property. 
+
+
+~ Look for published works after CVPR / Updated versions ~
 
 
 Bibtext:
